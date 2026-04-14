@@ -1,0 +1,4 @@
+main\java\com\universidad\mvc\model\ProductoDAO.class
+main\java\com\universidad\mvc\service\ProductoService.class
+main\java\com\universidad\mvc\model\Producto.class
+main\java\com\universidad\mvc\controller\ProductoServlet.class
